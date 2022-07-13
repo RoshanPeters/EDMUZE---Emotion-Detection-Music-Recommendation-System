@@ -1,0 +1,38 @@
+index_no,SONG,ARTIST,EMOTION,LANGUAGE
+0,The lazy song,Bruno Mars,Happy,English
+1,Deathbed,Powfu,Sad,English
+2,Cherathukal,Sithara,Sad,Malayalam
+3,Bulleya,Amit Mishra,Angry,Hindi
+4,Rowdy Baby,Dhanush,Happy,Tamil
+5,Tears don't fall,Bullet for my valentine,Angry,English
+6,The Shape of You,Ed Sheeran,Happy,English
+7,Four Seasons,Vivaldi,Sad,English
+8,Rock the Casbah,The clash,Sad,English
+9,Payphone,Maroon 5,Happy,English
+10,Whistle,Flo Rida,Happy,English
+11,Starboy,The Weeknd,Angry,English
+12,Lucid Dreams,Juice WRLD,Sad,English
+13,Numb,Linkin Park,Angry,English
+14,Boulevard,Green Day,Angry,English
+15,Chogada,Darshan Raval,Happy,Hindi
+16,HHsong 2,Arijit Singh,Happy,Hindi
+17,HHsong 3,Honey Singh,Happy,Hindi
+18,HHsong 4,Neha Kakkar,Happy,Hindi
+19,HSsong 1,Shreya Ghoshal,Sad,Hindi
+20,HSsong 2,Honey Singh,Sad,Hindi
+21,HSsong 3,Sonu Nigam,Sad,Hindi
+22,HSsong 4,Amit Mishra,Sad,Hindi
+23,HAsong 2,Sonu Nigam,Angry,Hindi
+24,HAsong 3,Neha Kakkar,Angry,Hindi
+25,HAsong 4,Shreya Ghoshal,Angry,Hindi
+26,TAsong 1,Anirudh,Angry,Tamil
+27,TAsong 2,Dhanush,Angry,Tamil
+28,TAsong 3,Vijay,Angry,Tamil
+29,TAsong 4,AR Rahman,Angry,Tamil
+30,THsong 2,Imman,Happy,Tamil
+31,THsong 3,Karthik,Happy,Tamil
+32,THsong 4,Shreya Ghoshal,Happy,Tamil
+33,TSsong 1,AR Rahman,Sad,Tamil
+34,TSsong 2,Karthik,Sad,Tamil
+35,TSsong 3,Imman,Sad,Tamil
+36,TSsong 4,Vijay,Sad,Tamil
